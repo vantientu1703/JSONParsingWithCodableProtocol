@@ -1,0 +1,27 @@
+{
+  "branch": {
+    "subject": 5,
+    "total_students": 110,
+    "total_books": 150
+  },
+  "subjects": [
+    {
+      "subject_id": 301,
+      "name": "EMT",
+      "pratical": false,
+      "pratical_days": [
+        "Monday",
+        "Friday"
+      ]
+    },
+    {
+      "subject_id": 302,
+      "name": "Network Analysis",
+      "pratical": true,
+      "pratical_days": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  ]
+}
